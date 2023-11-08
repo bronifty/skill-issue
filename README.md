@@ -70,4 +70,6 @@ SST Documentation:
 
 The SST (Serverless Stack Toolkit) documentation includes a section on the RemixSite construct, which is a higher-level CDK construct designed to make it easy to create and deploy a Remix app to AWS. It details how static assets are served from an S3 Bucket and CloudFront CDN, while the app server is deployed to Lambda​​. [sst remix](https://docs.sst.dev/constructs/RemixSite)
 
+Remix Team (RPF and Michael Jackson) discuss some of these things in their Roadmap Planning session here [remix roadmap](https://www.youtube.com/watch?v=i8eb83XDFNg)
+
 You can explore these resources for detailed instructions and consider the specific requirements and limitations of your application when deciding on the deployment strategy. Would you like to start with any particular guide?
