@@ -16,6 +16,6 @@ api.post("*", inflight () => {});
 api.get("*", inflight () => {});  
 
 let website = new cloud.Website(
-  path: "../../vite/dist",
+  path: "./remix-vite/public/build",
 );
 website.addJson("config.json", { api: api.url });
