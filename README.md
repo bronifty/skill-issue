@@ -2,6 +2,9 @@
 
 How to actually route requests from a hybrid app like remix to a lambda function like wing api (a cloud-native version of express) in a serverless manner? Could it be similar to deploying on vercel with the api folder? May need to copy SST's notes. Skill issue.
 
+- The following is a copied and pasted chatgpt discussion around the topic
+  [chatgpt](https://chat.openai.com/share/994b40cd-16ff-4cd3-9f0f-5747ca513c53)
+
 If I were to pack an entire website into a Lambda function and serve it that way upon request, rather than serve it as a static website in a bucket, how would I go about doing that? And this is really specific to something like Remix Run, which is a React hybrid server-side rendered and single-page app similar to Next.js. And it could be an overlapping strategy with SST that does something very similar. Do you have any ideas where I might start there?
 ChatGPT
 
